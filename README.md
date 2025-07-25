@@ -14,11 +14,24 @@
 
 ## Installation
 
-Add to your `pom.xml`:
+You can import this library using [JitPack](https://jitpack.io):
+
+1. Add the JitPack repository to your `pom.xml`:
+
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+
+2. Add the dependency:
 
 ```xml
 <dependency>
-    <groupId>com.quangbs</groupId>
+    <groupId>com.github.quangbs</groupId>
     <artifactId>rest-audit-api</artifactId>
     <version>1.0.0</version>
 </dependency>
