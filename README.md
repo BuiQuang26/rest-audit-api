@@ -1,6 +1,6 @@
 # rest-audit-api
 
-[![JitPack](https://jitpack.io/v/quangbs/rest-audit-api.svg)](https://jitpack.io/#quangbs/rest-audit-api)
+[![JitPack](https://jitpack.io/v/BuiQuang26/rest-audit-api.svg)](https://jitpack.io/#BuiQuang26/rest-audit-api)
 
 ## Introduction
 
