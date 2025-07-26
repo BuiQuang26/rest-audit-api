@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**rest-audit-api** is a library that automatically **logs (audits) all REST API** requests and responses in your **Spring Boot application**. It helps you easily monitor, trace, and analyze system activities for security, auditing, or user behavior analysis purposes.
+**Rest-audit-api** is a library that automatically logs (audits) all REST http api headers, requests and responses in your **Spring Boot application**. It helps you easily monitor, trace, and analyze system activities for security, auditing, or user behavior analysis purposes.
 
 ## Table of Contents
 
