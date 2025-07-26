@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**rest-audit-api** is a library that automatically logs (audits) all REST API requests and responses in your Spring Boot application. It helps you easily monitor, trace, and analyze system activities for security, auditing, or user behavior analysis purposes.
+**rest-audit-api** is a library that automatically **logs (audits) all REST API** requests and responses in your **Spring Boot application**. It helps you easily monitor, trace, and analyze system activities for security, auditing, or user behavior analysis purposes.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ You can import this library using [JitPack](https://jitpack.io):
 
 ```xml
 <dependency>
-    <groupId>com.github.quangbs</groupId>
+    <groupId>com.github.BuiQuang26</groupId>
     <artifactId>rest-audit-api</artifactId>
     <version>1.0.0</version> <!-- or latest version/tag -->
 </dependency>
