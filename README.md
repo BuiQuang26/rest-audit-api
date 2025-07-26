@@ -203,11 +203,3 @@ public class FileAuditSinkService implements AuditSinkService {
 ## Contribution & Contact
 
 For feedback, bug reports, or feature requests, please visit [github.com/quangbs/rest-audit-api](#) or contact the author directly.
-
----
-
-If you need more examples for custom sinks (e.g., database, message queue), feel free to reach out for support!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
